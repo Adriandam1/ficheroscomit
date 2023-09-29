@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class ejemploscanner {
     public static void main(String[] args) {
+        //comentario
         //area de un rectangulo = base * altura
 /*
        float base, altura, area;

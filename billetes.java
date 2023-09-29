@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class billetes {
     public static void main(String[] args) {
+        //comentario
         int b100, b20, b5, m1, total;
         System.out.print("Billetes de 100€: ");
         Scanner input = new Scanner(System.in);
