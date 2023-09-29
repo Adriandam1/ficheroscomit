@@ -20,6 +20,8 @@ public class ejemploscanner {
         // para PI usamos el Math, como PI es double tenemos que hacer un cast a float
         float lonxitude = (float) (2*Math.PI*ra);
         System.out.println("La lonxitude do circulo e: "+lonxitude);
+        // es dificil ser original contrareloj por que encontree un fallo en el origin y perdi media hora damian se benevologit
+        System.out.println("Realiza un cambio en el primer y tercer fichero, realiza un commit de estos cambios"");
 
     }
 }
