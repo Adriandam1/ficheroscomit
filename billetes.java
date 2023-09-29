@@ -14,5 +14,6 @@ public class billetes {
         m1 = input.nextInt();
         total = b100 + b20 + b5 +m1;
         System.out.println("\nLa cantidad total es: "+total+" €");
+        System.out.println("commit en 2 ficheros");
     }
 }
